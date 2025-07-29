@@ -1,4 +1,3 @@
 # 5262237_VASUDHA_WARHATE
 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
-<img src= https://github.com/Vasudha-Warhate/5262237_Vasudha-Warhate/blob/main/SDLC/5262237_VASUDHA%20WARHATE.png alt="image">
-<img src= https://github.com/Vasudha-Warhate/5262237_Vasudha-Warhate/blob/main/GIT/5262237_VASUDHA%20J.%20WARHATE.jpg alt="image">
+<img width="1920" height="1080" alt="5262237_VASUDHA WARHATE" src="https://github.com/user-attachments/assets/747a8b5d-9d1e-4eee-984a-4d0c818a8c88" />
