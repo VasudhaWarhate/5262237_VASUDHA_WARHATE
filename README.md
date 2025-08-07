@@ -4,4 +4,4 @@ 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
 ![5262237_VASUDHA J  WARHATE](https://github.com/user-attachments/assets/53cbf539-693e-4a29-a332-c65f77a340f2)
 <img src=https://github.com/VasudhaWarhate/5262237_VASUDHA_WARHATE/blob/main/Linux/5262237_Vasudha%20Warhate.png alt="image">
 <img src=https://github.com/VasudhaWarhate/5262237_VASUDHA_WARHATE/blob/main/C%20Programing/5262237_VASUDHA%20WARHATE%201.jpg alt="image">
-<img src=https://github.com/VasudhaWarhate/5262237_VASUDHA_WARHATE/blob/main/C%20Programing/5262237_VASUDHA%20WARHATE%201.jpg alt="image">
+<img src=https://github.com/VasudhaWarhate/5262237_VASUDHA_WARHATE/blob/main/C%20Programing/5262237_VASUDHA%20WARHATE%202.jpg alt="image">
